@@ -1,0 +1,8 @@
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\bin\Debug\Sample.exe.config
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\bin\Debug\Sample.exe
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\bin\Debug\Sample.pdb
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\bin\Debug\SourceAFIS.dll
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\bin\Debug\SourceAFIS.xml
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\obj\Debug\Sample.exe
+C:\Users\tytri\Downloads\SourceAFIS-1.7.0\SourceAFIS-1.7.0\Sample\obj\Debug\Sample.pdb
